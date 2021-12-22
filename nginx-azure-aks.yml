@@ -42,7 +42,7 @@ spec:
 
         ports:
 
-        - containerPort: 8080
+        - containerPort: 8081
 
         resources:
 
@@ -71,7 +71,7 @@ spec:
 
   ports:
 
-  - port: 8080
+  - port: 8081
 
   selector:
     app: my-nginx-app
