@@ -36,7 +36,7 @@ spec:
 
       - name: my-nginx-app
 
-        image: oyodocacr.azurecr.io/snarendevops/nginx:latest
+        image: oyoazacrdemo.azurecr.io/snarendevops/nginx:latest
 
         imagePullPolicy: Always
 
