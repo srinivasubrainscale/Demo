@@ -1,3 +1,3 @@
 FROM nginx:latest
-MAINTAINER "Narendra"
+MAINTAINER "srinivasubrainscale"
 COPY ./helloworld.txt /usr/share/nginx/html/index.html
